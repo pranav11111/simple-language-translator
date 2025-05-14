@@ -1,0 +1,10 @@
+langchain
+ipykernel
+dotenv
+langchain-openai
+langchain-groq
+langchain-core
+fastapi
+uvicorn
+langserve
+pydantic==2.9.2
